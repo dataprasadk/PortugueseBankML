@@ -1,4 +1,4 @@
-# 🧠 PRCP-1000: Portuguese Bank Marketing ML Project
+# Portuguese Bank Marketing ML Project
 
 This repository contains a complete machine learning project built using the **Portuguese Bank Marketing Dataset**. The goal is to predict whether a client will subscribe to a term deposit (`y`) based on demographic and behavioral features.
 
