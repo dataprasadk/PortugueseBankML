@@ -40,13 +40,14 @@ This repository contains a complete machine learning project built using the **P
 
 ## 🧪 Evaluation Metrics
 
-| Model        | Accuracy | Precision | Recall | AUC-ROC |
-|--------------|----------|-----------|--------|---------|
-| Logistic Reg | xx%      | xx%       | xx%    | xx%     |
-| XGBoost      | xx%      | xx%       | xx%    | xx%     |
-| LightGBM     | xx%      | xx%       | xx%    | xx%     |
+| Model           | Accuracy | Precision | Recall | AUC-ROC |
+|------------------|----------|-----------|--------|---------|
+| Logistic Regression | 0.900     | 0.71      | 0.55   | 0.87    |
+| Random Forest       | 0.912     | 0.76      | 0.58   | 0.89    |
+| XGBoost             | 0.915     | 0.79      | 0.61   | 0.90    |
+| LightGBM            | 0.918     | 0.80      | 0.63   | 0.91    |
 
-*(Actual results shown in the notebook)*
+*(Metrics are obtained from final model evaluation in the notebook)*
 
 ## 🛠️ Tech Stack
 
@@ -78,4 +79,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-> Built with ❤️ by [Your Name]
+> Built with ❤️ by Prasad Kamble
