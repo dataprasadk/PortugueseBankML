@@ -1,0 +1,7 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.pkl
